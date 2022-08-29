@@ -4,11 +4,11 @@ A game made exclusively to study VR technology in Unity. It currently has the fo
 
 
 
-Continuous and teleport movement.
+*Continuous and teleport movement.
 
-Interactions with objects using joystick and hand.
+*Interactions with objects using joystick and hand.
 
-A gun with proper animations.
+*A gun with proper animations.
 
-respawning enemies.
+*respawning enemies.
 
